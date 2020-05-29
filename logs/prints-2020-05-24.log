@@ -1,0 +1,5 @@
+24-May-2020 20:23:48.125 [main] INFO  pages.ListenerTest - Browser has been opened
+24-May-2020 20:23:48.848 [main] INFO  pages.ListenerTest - Call autodefect and screen shot capture methods
+24-May-2020 20:23:48.848 [main] INFO  pages.ListenerTest - java.lang.AssertionError: expected [true] but found [false]
+24-May-2020 20:23:49.420 [main] INFO  pages.ListenerTest - Call autodefect and screen shot capture methods
+24-May-2020 20:23:49.420 [main] INFO  pages.ListenerTest - java.lang.AssertionError: expected [true] but found [false]

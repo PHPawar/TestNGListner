@@ -1,0 +1,5 @@
+27-May-2020 19:31:31.813 [main] INFO  pages.ListenerTest - Call autodefect and screen shot capture methods
+27-May-2020 19:31:31.817 [main] INFO  pages.ListenerTest - java.lang.AssertionError: expected [true] but found [false]
+27-May-2020 19:31:32.253 [main] INFO  pages.ListenerTest - Call autodefect and screen shot capture methods
+27-May-2020 19:31:32.254 [main] INFO  pages.ListenerTest - java.lang.AssertionError: expected [true] but found [false]
+27-May-2020 19:31:33.476 [main] INFO  pages.ListenerTest - Driver is closed
